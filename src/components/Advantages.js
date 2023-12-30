@@ -21,9 +21,9 @@ const Advantages = () => {
                 <header className="header">
                     <Navbar/>
                     <h1>НАШИ <img src={capsuleMini} alt=""/> <br/> ПРЕИМУЩЕСТВА</h1>
-                    <p className="subtitle">
+                    {/* <p className="subtitle">
                         Нам доверяют ведущие производители таких стран, как: Россия, Украина, Беларусь, Казахстан, Китай, Иран, Афганистан,<br/>Пакистан, Индия, Малайзия, Индонезия, Испания, Корт-де-Вуар
-                    </p>
+                    </p> */}
                     <div className="row">
                         <div className="col-lg-12">
                             <img src={headerFactory} alt=""/>
